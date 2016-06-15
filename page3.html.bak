@@ -1,0 +1,182 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>颜色与其英文对照表</title>
+<link type="text/css" rel="stylesheet" href="styles/common.css" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+	<h1>Web Color</h1>
+
+	<h2>颜色与其英文对照表</h2>
+	<div class="entityclip">
+		<ul>
+			<li style="background-color:red;" onclick="alert('red')" title="red" />
+			<li style="background-color:green;" onclick="alert('green')" title="green" />
+			<li style="background-color:blue;" onclick="alert('blue')" title="blue" />
+			<li style="background-color:magenta;" onclick="alert('magenta')" title="magenta" />
+			<li style="background-color:yellow;" onclick="alert('yellow')" title="yellow" />
+			<li style="background-color:black;" onclick="alert('black')" title="black" />
+			<li style="background-color:aquamarine;" onclick="alert('aquamarine')" title="aquamarine" />
+			<li style="background-color:lime;" onclick="alert('lime')" title="lime" />
+			<li style="background-color:fuchsia;" onclick="alert('fuchsia')" title="fuchsia" />
+			<li style="background-color:brass;" onclick="alert('brass')" title="brass" />
+			<li style="background-color:brown;" onclick="alert('brown')" title="brown" />
+			<li style="background-color:bronze;" onclick="alert('bronze')" title="bronze" />
+			<li style="background-color:deeppink;" onclick="alert('deeppink')" title="deeppink" />
+			<li style="background-color:aliceblue;" onclick="alert('aliceblue')" title="aliceblue" />
+			<li style="background-color:gray;" onclick="alert('gray')" title="gray" />
+			<li style="background-color:coral;" onclick="alert('coral')" title="coral" />
+			<li style="background-color:feldspar;" onclick="alert('feldspar')" title="feldspar" />
+			<li style="background-color:orange;" onclick="alert('orange')" title="orange" />
+			<li style="background-color:orchid;" onclick="alert('orchid')" title="orchid" />
+			<li style="background-color:pink;" onclick="alert('pink')" title="pink" />
+			<li style="background-color:quartz;" onclick="alert('quartz')" title="quartz" />
+			<li style="background-color:purple;" onclick="alert('purple')" title="purple" />
+			<li style="background-color:aliceblue;" onclick="alert('aliceblue')" title="aliceblue" />
+			<li style="background-color:antiquewith;" onclick="alert('antiquewith')" title="antiquewith" />
+			<li style="background-color:blanchedalmond;" onclick="alert('blanchedalmond')" title="blanchedalmond" />
+			<li style="background-color:beige;" onclick="alert('beige')" title="beige" />
+			<li style="background-color:burlywood;" onclick="alert('burlywood')" title="burlywood" />
+			<li style="background-color:bisque;" onclick="alert('bisque')" title="bisque" />
+			<li style="background-color:cadetblue;" onclick="alert('cadetblue')" title="cadetblue" />
+			<li style="background-color:pink;" onclick="alert('pink')" title="pink" />
+			<li style="background-color:royalblue;" onclick="alert('royalblue')" title="royalblue" />
+			<li style="background-color:rosybrown;" onclick="alert('rosybrown')" title="rosybrown" />
+			<li style="background-color:purple;" onclick="alert('purple')" title="purple" />
+			<li style="background-color:orengered;" onclick="alert('orengered')" title="orengered" />
+			<li style="background-color:olivedrab;" onclick="alert('olivedrab')" title="olivedrab" />
+			<li style="background-color:peachpuff;" onclick="alert('peachpuff')" title="peachpuff" />
+			<li style="background-color:papayawhip;" onclick="alert('papayawhip')" title="papayawhip" />
+			<li style="background-color:paleturquoise;" onclick="alert('paleturquoise')" title="paleturquoise" />
+			<li style="background-color:palevioletred;" onclick="alert('palevioletred')" title="palevioletred" />
+			<li style="background-color:palegreen;" onclick="alert('palegreen')" title="palegreen" />
+			<li style="background-color:navajowhite;" onclick="alert('navajowhite')" title="navajowhite" />
+			<li style="background-color:palegodenrod;" onclick="alert('palegodenrod')" title="palegodenrod" />
+			<li style="background-color:violetred;" onclick="alert('violetred')" title="violetred" />
+			<li style="background-color:yellowgreen;" onclick="alert('yellowgreen')" title="yellowgreen" />
+			<li style="background-color:tomato;" onclick="alert('tomato')" title="tomato" />
+			<li style="background-color:thistle;" onclick="alert('thistle')" title="thistle" />
+			<li style="background-color:springgreen;" onclick="alert('springgreen')" title="springgreen" />
+			<li style="background-color:steelblue;" onclick="alert('steelblue')" title="steelblue" />
+			<li style="background-color:salmon;" onclick="alert('salmon')" title="salmon" />
+			<li style="background-color:scarlet;" onclick="alert('scarlet')" title="scarlet" />
+			<li style="background-color:silver;" onclick="alert('silver')" title="silver" />
+			<li style="background-color:tan;" onclick="alert('tan')" title="tan" />
+			<li style="background-color:thistle;" onclick="alert('thistle')" title="thistle" />
+			<li style="background-color:turquoise;" onclick="alert('turquoise')" title="turquoise" />
+			<li style="background-color:violet;" onclick="alert('violet')" title="violet" />
+			<li style="background-color:salmon;" onclick="alert('salmon')" title="salmon" />
+			<li style="background-color:scarlet;" onclick="alert('scarlet')" title="scarlet" />
+			<li style="background-color:sienna;" onclick="alert('sienna')" title="sienna" />
+			<li style="background-color:silver;" onclick="alert('silver')" title="silver" />
+			<li style="background-color:tan;" onclick="alert('tan')" title="tan" />
+			<li style="background-color:turquoise;" onclick="alert('turquoise')" title="turquoise" />
+			<li style="background-color:violet;" onclick="alert('violet')" title="violet" />
+			<li style="background-color:chartreuse;" onclick="alert('chartreuse')" title="chartreuse" />
+			<li style="background-color:firebrick;" onclick="alert('firebrick')" title="firebrick" />
+			<li style="background-color:gold;" onclick="alert('gold')" title="gold" />
+			<li style="background-color:mediumslateblue;" onclick="alert('mediumslateblue')" title="mediumslateblue" />
+			<li style="background-color:mediumvioletred;" onclick="alert('mediumvioletred')" title="mediumvioletred" />
+			<li style="background-color:oldlace;" onclick="alert('oldlace')" title="oldlace" />
+			<li style="background-color:maroom;" onclick="alert('maroom')" title="maroom" />
+			<li style="background-color:goldenrod;" onclick="alert('goldenrod')" title="goldenrod" />
+			<li style="background-color:whitesmoke;" onclick="alert('whitesmoke')" title="whitesmoke" />
+			<li style="background-color:orange;" onclick="alert('orange')" title="orange" />
+			<li style="background-color:moccasin;" onclick="alert('moccasin')" title="moccasin" />
+			<li style="background-color:mistyrose;" onclick="alert('mistyrose')" title="mistyrose" />
+			<li style="background-color:mintcream;" onclick="alert('mintcream')" title="mintcream" />
+			<li style="background-color:dimgray;" onclick="alert('dimgray')" title="dimgray" />
+			<li style="background-color:darksalmon;" onclick="alert('darksalmon')" title="darksalmon" />
+			<li style="background-color:slategray;" onclick="alert('slategray')" title="slategray" />
+			<li style="background-color:skyblue;" onclick="alert('skyblue')" title="skyblue" />
+			<li style="background-color:sienna;" onclick="alert('sienna')" title="sienna" />
+			<li style="background-color:salmon;" onclick="alert('salmon')" title="salmon" />
+			<li style="background-color:seagreen;" onclick="alert('seagreen')" title="seagreen" />
+			<li style="background-color:sandybrown;" onclick="alert('sandybrown')" title="sandybrown" />
+			<li style="background-color:firebrick;" onclick="alert('firebrick')" title="firebrick" />
+			<li style="background-color:gold;" onclick="alert('gold')" title="gold" />
+			<li style="background-color:maroom;" onclick="alert('maroom')" title="maroom" />
+			<li style="background-color:goldenrod;" onclick="alert('goldenrod')" title="goldenrod" />
+			<li style="background-color:wheat;" onclick="alert('wheat')" title="wheat" />
+			<li style="background-color:whitesmoke;" onclick="alert('whitesmoke')" title="whitesmoke" />
+			<li style="background-color:mediumturquoise;" onclick="alert('mediumturquoise')" title="mediumturquoise" />
+			<li style="background-color:mediumspringgreen;" onclick="alert('mediumspringgreen')" title="mediumspringgreen" />
+			<li style="background-color:mediumseagreen;" onclick="alert('mediumseagreen')" title="mediumseagreen" />
+			<li style="background-color:mediumpurpul;" onclick="alert('mediumpurpul')" title="mediumpurpul" />
+			<li style="background-color:peru;" onclick="alert('peru')" title="peru" />
+			<li style="background-color:mediumorchid;" onclick="alert('mediumorchid')" title="mediumorchid" />
+			<li style="background-color:mediumaquamarine;" onclick="alert('mediumaquamarine')" title="mediumaquamarine" />
+			<li style="background-color:maroon;" onclick="alert('maroon')" title="maroon" />
+			<li style="background-color:limegreen;" onclick="alert('limegreen')" title="limegreen" />
+			<li style="background-color:lightyellow;" onclick="alert('lightyellow')" title="lightyellow" />
+			<li style="background-color:lightsteelblue;" onclick="alert('lightsteelblue')" title="lightsteelblue" />
+			<li style="background-color:lightslateblue;" onclick="alert('lightslateblue')" title="lightslateblue" />
+			<li style="background-color:lightslategray;" onclick="alert('lightslategray')" title="lightslategray" />
+			<li style="background-color:lightskyblue;" onclick="alert('lightskyblue')" title="lightskyblue" />
+			<li style="background-color:inen;" onclick="alert('inen')" title="inen" />
+			<li style="background-color:lightseagreen;" onclick="alert('lightseagreen')" title="lightseagreen" />
+			<li style="background-color:lightpink;" onclick="alert('lightpink')" title="lightpink" />
+			<li style="background-color:plum;" onclick="alert('plum')" title="plum" />
+			<li style="background-color:lightgray;" onclick="alert('lightgray')" title="lightgray" />
+			<li style="background-color:lightgreen;" onclick="alert('lightgreen')" title="lightgreen" />
+			<li style="background-color:lightgodenrodyellow;" onclick="alert('lightgodenrodyellow')" title="lightgodenrodyellow" />
+			<li style="background-color:lavender;" onclick="alert('lavender')" title="lavender" />
+			<li style="background-color:lightblue;" onclick="alert('lightblue')" title="lightblue" />
+			<li style="background-color:lavenderblush;" onclick="alert('lavenderblush')" title="lavenderblush" />
+			<li style="background-color:lightcoral;" onclick="alert('lightcoral')" title="lightcoral" />
+			<li style="background-color:lightcyan;" onclick="alert('lightcyan')" title="lightcyan" />
+			<li style="background-color:hotpink;" onclick="alert('hotpink')" title="hotpink" />
+			<li style="background-color:greenyellow;" onclick="alert('greenyellow')" title="greenyellow" />
+			<li style="background-color:lemonchiffon;" onclick="alert('lemonchiffon')" title="lemonchiffon" />
+			<li style="background-color:lawngreen;" onclick="alert('lawngreen')" title="lawngreen" />
+			<li style="background-color:khaki;" onclick="alert('khaki')" title="khaki" />
+			<li style="background-color:honeydew;" onclick="alert('honeydew')" title="honeydew" />
+			<li style="background-color:golenrod;" onclick="alert('golenrod')" title="golenrod" />
+			<li style="background-color:forestgreen;" onclick="alert('forestgreen')" title="forestgreen" />
+			<li style="background-color:gostwhite;" onclick="alert('gostwhite')" title="gostwhite" />
+			<li style="background-color:greenyellow;" onclick="alert('greenyellow')" title="greenyellow" />
+			<li style="background-color:firebrick;" onclick="alert('firebrick')" title="firebrick" />
+			<li style="background-color:dodgerblue;" onclick="alert('dodgerblue')" title="dodgerblue" />
+			<li style="background-color:darkturquoise;" onclick="alert('darkturquoise')" title="darkturquoise" />
+			<li style="background-color:darkslateblue;" onclick="alert('darkslateblue')" title="darkslateblue" />
+			<li style="background-color:darkslategray;" onclick="alert('darkslategray')" title="darkslategray" />
+			<li style="background-color:darkred;" onclick="alert('darkred')" title="darkred" />
+			<li style="background-color:darkorchid;" onclick="alert('darkorchid')" title="darkorchid" />
+			<li style="background-color:darkorenge;" onclick="alert('darkorenge')" title="darkorenge" />
+			<li style="background-color:darkslateblue;" onclick="alert('darkslateblue')" title="darkslateblue" />
+			<li style="background-color:darkviolet;" onclick="alert('darkviolet')" title="darkviolet" />
+			<li style="background-color:cyan;" onclick="alert('cyan')" title="cyan" />
+			<li style="background-color:bisque darkgray;" onclick="alert('bisque darkgray')" title="bisque darkgray" />
+			<li style="background-color:cornsilk;" onclick="alert('cornsilk')" title="cornsilk" />
+			<li style="background-color:darkolivegreen;" onclick="alert('darkolivegreen')" title="darkolivegreen" />
+			<li style="background-color:darkgoldenrod;" onclick="alert('darkgoldenrod')" title="darkgoldenrod" />
+			<li style="background-color:darkcyan;" onclick="alert('darkcyan')" title="darkcyan" />
+			<li style="background-color:darkgreen;" onclick="alert('darkgreen')" title="darkgreen" />
+			<li style="background-color:darkhaki;" onclick="alert('darkhaki')" title="darkhaki" />
+			<li style="background-color:ivory;" onclick="alert('ivory')" title="ivory" />
+			<li style="background-color:darkmagenta;" onclick="alert('darkmagenta')" title="darkmagenta" />
+			<li style="background-color:cornfloewrblue;" onclick="alert('cornfloewrblue')" title="cornfloewrblue" />
+			<li style="background-color:cornfloewrblue;" onclick="alert('cornfloewrblue')" title="cornfloewrblue" />
+			<li style="background-color:darkviolet;" onclick="alert('darkviolet')" title="darkviolet" />
+			<li style="background-color:floralwhite;" onclick="alert('floralwhite')" title="floralwhite" />
+			<li style="background-color:darkorenge;" onclick="alert('darkorenge')" title="darkorenge" />
+			<li style="background-color:darkslategray;" onclick="alert('darkslategray')" title="darkslategray" />
+			<li style="background-color:darkseagreen;" onclick="alert('darkseagreen')" title="darkseagreen" />
+			<li style="background-color:darkred;" onclick="alert('darkred')" title="darkred" />
+			<li style="background-color:darkorchid;" onclick="alert('darkorchid')" title="darkorchid" />
+		</ul>
+	</div>	
+
+</div>
+
+<div id="footer">&nbsp;</div>
+
+</body>
+</html>
